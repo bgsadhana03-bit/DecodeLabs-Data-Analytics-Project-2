@@ -1,0 +1,30 @@
+DECODELABS PROJECT 2: EDA FINDINGS
+========================================
+Dataset size: 1200 rows and 14 columns
+Duplicate rows: 0
+
+Missing values:
+- CouponCode: 309 missing values
+
+Numerical statistics:
+- Quantity: mean=2.95, median=3.00, count=1200
+- UnitPrice: mean=356.41, median=364.21, count=1200
+- ItemsInCart: mean=5.49, median=5.00, count=1200
+- TotalPrice: mean=1053.97, median=823.62, count=1200
+
+Order status counts:
+- Cancelled: 250
+- Returned: 247
+- Pending: 237
+- Shipped: 235
+- Delivered: 231
+
+Most frequent products:
+- Printer: 181
+- Tablet: 179
+- Chair: 178
+
+Potential TotalPrice outliers: 8
+IQR upper boundary: 3330.41
+
+Note: Potential outliers require investigation; they are not automatically data errors.
