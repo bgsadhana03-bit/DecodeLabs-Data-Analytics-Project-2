@@ -8,7 +8,7 @@ This project explores an order dataset using Python and exploratory data analysi
 
 - **Size:** 1,200 rows and 14 columns
 - **Date range:** January 1, 2023 – June 30, 2025
-- **File:** `Dataset for Data Analytics (2).xlsx`
+- **File:** `Dataset for Data Analytics (2).xlsx` (kept locally and not included in this public repository)
 
 The dataset includes order IDs, dates, customer IDs, products, quantities, unit prices, shipping addresses, payment methods, order statuses, tracking numbers, items in cart, coupon codes, referral sources, and total prices.
 
